@@ -18,7 +18,7 @@ Away from keyboard I am a 🐴 horse geek 🏇, it is how I refresh and recharge
 
 **My Top Languages in Public Respositories on Github:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olepunchy&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olepunchy&theme=radical)
 
 
 **Languages and Tools I'm Diving Into:**
