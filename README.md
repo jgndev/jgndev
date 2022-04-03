@@ -12,15 +12,6 @@ I blame <img src="https://github.com/devicons/devicon/blob/master/icons/linux/li
 Away from keyboard I am a 🏇 horse geek 🏇, it is my zen place where I go to refresh, recharge and keep my body active. A newer hobby is amatuer 🥩 BBQ cook 🐔 which is a pretty tasty way to enjoy a pretty day in Texas. 
 
 
-## Computer Stuff
-
-Daily Driver: [Late 2012 Macbook Pro 13-inch](https://support.apple.com/kb/sp658?locale=en_US){:target="_blank"}, I'm a bit overdue for an upgrade...  
-Monitor: [LG 32QK500-C 32-Inch Class QHD LED IPS Monitor with Radeon FreeSync](https://www.amazon.com/gp/product/B07YGZRQ98/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)  
-Keyboard: [Ducky One 2 Mini RGB (Cherry MX Silent Red) Keyboard](https://www.amazon.com/gp/product/B07SYJ6S5F/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)  
-Mouse: [SteelSeries Rival 95 Optical Gaming Mouse](https://www.amazon.com/gp/product/B075LY78QD/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)  
-Desk: [WOKA Dual Motor Standing Desk, 48 x 24 Inches Adjustable Height Desk](https://www.amazon.com/gp/product/B095H2PTYK/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)  
-
-
 
 **My Top Languages in Public Respositories on Github:**
 
