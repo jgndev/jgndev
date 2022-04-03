@@ -14,7 +14,7 @@ Away from keyboard I am a 🏇 horse geek 🏇, it is my zen place where I go to
 
 ## Computer Stuff
 
-Daily Driver: [Late 2012 Macbook Pro 13-inch](https://support.apple.com/kb/sp658?locale=en_US), I'm a bit overdue for an upgrade...  
+Daily Driver: [Late 2012 Macbook Pro 13-inch](https://support.apple.com/kb/sp658?locale=en_US){:target="_blank"}, I'm a bit overdue for an upgrade...  
 Monitor: [LG 32QK500-C 32-Inch Class QHD LED IPS Monitor with Radeon FreeSync](https://www.amazon.com/gp/product/B07YGZRQ98/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)  
 Keyboard: [Ducky One 2 Mini RGB (Cherry MX Silent Red) Keyboard](https://www.amazon.com/gp/product/B07SYJ6S5F/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)  
 Mouse: [SteelSeries Rival 95 Optical Gaming Mouse](https://www.amazon.com/gp/product/B075LY78QD/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)  
