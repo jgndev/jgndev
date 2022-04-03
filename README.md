@@ -2,14 +2,14 @@
 
 I'm Jeremy Novak, thanks for checking out my github.
 
-I'm currently employed at [Microsoft](https://azure.microsoft.com) as an Azure App Services Engineer. I love to work with Open Source Software, Containers and the Cloud. 
+I'm currently employed at [Microsoft](https://azure.microsoft.com) as an Azure App Services Engineer. I love to work with Open Source Software, Web Applications, Containers and the Cloud. 
 
 
 ## About
 
 I blame <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="16px" height="16px" alt="Linux" /> for getting me into this stuff 😆. Something clicked in that process and there I was trying to make everything I could think of into a shell script 🤓. The rest as they say is history, and I have been into exploring languages and building stuff for fun and profit every since.  
 
-Away from keyboard I am a 🏇 horse geek 🏇, it is my zen place where I go to refresh, recharge and keep my body active. A newer hobby is amatuer 🥩 BBQ cook 🐔 which is a pretty tasty way to enjoy a pretty day in Texas. 
+Away from keyboard I am a 🐴 horse geek 🏇, it is how I refresh, recharge and keep my body active. A newer hobby is amatuer 🥩 BBQ cook 🐔 which is a pretty tasty way to enjoy a pretty day in Texas. 
 
 
 
@@ -28,6 +28,7 @@ Away from keyboard I am a 🏇 horse geek 🏇, it is my zen place where I go to
 <code><a href="https://vuejs.org" target="_blank" title="VueJS"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="24px" height="24px" /></a></code>
 <code><a href="https://svelte.dev" target="_blank" title="Svelete"><img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" width="24px" height="24px" /></a></code>
 <code><a href="https://d3js.org" target="_blank" title="D3.js"><img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" width="24px" height="24px" /></a></code>
+<code><a href="https://tailwindcss.com" target="_blank" title="Tailwind CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="24px" height="24px"></a></code>
 <code><a href="https://nodejs.org" target="_blank" title="node.js"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="24px" height="24px" /></a></code>
 <code><a href="https://docker.com" target="_blank" title="Docker"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="24px" height="24px" /></a></code>
 <code><a href="https://kubernetes.io" target="_blank" title="Kubernetes"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="24px" height="24px" /></a></code>
