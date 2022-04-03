@@ -1,15 +1,18 @@
-### Howdy there 🤠
+### 👋 Howdy there, I'm Jeremy Novak
 
-I'm Jeremy Novak, thanks for checking out my github.
 
 I'm currently employed at [Microsoft](https://azure.microsoft.com) as an Azure App Services Engineer. I love to work with Open Source Software, Web Applications, Containers and the Cloud. 
+
+<a href="https://linkedin.com/in/jgnovak" target="_blank" title="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/olepunchy" target="_blank" title="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
 
 
 ## About
 
-I blame <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" title="Linux"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="16px" height="16px" alt="Linux" /></a> for getting me into this stuff 😆. Something clicked in that process and there I was trying to make everything I could think of into a shell script 🤓. The rest as they say is history, and I have been into exploring languages and building stuff for fun and profit every since.  
+I blame <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" title="Linux"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="16px" height="16px" alt="Linux" /></a> for getting me into this stuff 😆. Something clicked in that process, and then there I was trying to make everything I could think of into a shell script 🤓. The rest as they say is history, and I have been into exploring languages and building stuff for fun and profit every since.  
 
-Away from keyboard I am a 🐴 horse geek 🏇, it is how I refresh, recharge and keep my body active. A newer hobby is amatuer 🥩 BBQ cook 🐔 which is a pretty tasty way to enjoy a beautiful day in Texas. 
+Away from keyboard I am a 🐴 horse geek 🏇, it is how I refresh, recharge and keep my body active. 
 
 
 
