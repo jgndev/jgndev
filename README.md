@@ -2,7 +2,7 @@
 
 I'm Jeremy Novak, thanks for checking out my github.
 
-I'm currently employed at [Microsoft](https://azure.microsoft.com) as an Azure App Services Engineer. I love to work with Open Source Software and the Azure Cloud. 
+I'm currently employed at [Microsoft](https://azure.microsoft.com) as an Azure App Services Engineer. I love to work with Open Source Software, Containers and the Cloud. 
 
 
 ## About
