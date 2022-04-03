@@ -29,7 +29,7 @@ Away from keyboard I am a 🐴 horse geek 🏇, it is how I refresh and recharge
 <code><a href="https://python.org" target="_blank" title="Python"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="24px" height="24px" /></a></code>
 <code><a href="https://go.dev" target="_blank" title="Go"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="24px" height="24px" /></a></code>
 <code><a href="https://vuejs.org" target="_blank" title="VueJS"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="24px" height="24px" /></a></code>
-<code><a href="https://svelte.dev" target="_blank" title="Svelete"><img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" width="24px" height="24px" /></a></code>
+<code><a href="https://svelte.dev" target="_blank" title="Svelte"><img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" width="24px" height="24px" /></a></code>
 <code><a href="https://d3js.org" target="_blank" title="D3.js"><img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" width="24px" height="24px" /></a></code>
 <code><a href="https://tailwindcss.com" target="_blank" title="Tailwind CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="24px" height="24px"></a></code>
 <code><a href="https://nodejs.org" target="_blank" title="node.js"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="24px" height="24px" /></a></code>
