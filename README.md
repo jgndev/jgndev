@@ -21,7 +21,7 @@ Away from keyboard I am a 🐴 horse geek 🏇, it is how I refresh and recharge
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olepunchy&theme=radical)
 
 
-**Languages and Tools I'm Diving Into:**
+**Languages and Tools I'm Into:**
 
 <code><a href="https://azure.microsoft.com" target="_blank" title="Azure" ><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="24px" height="24px" /></a></code>
 <code><a href="https://javascript.com" targt="_blank" title="JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="24px" height="24px" /></a></code>
@@ -36,9 +36,9 @@ Away from keyboard I am a 🐴 horse geek 🏇, it is how I refresh and recharge
 <code><a href="https://docker.com" target="_blank" title="Docker"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="24px" height="24px" /></a></code>
 <code><a href="https://kubernetes.io" target="_blank" title="Kubernetes"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="24px" height="24px" /></a></code>
 
-## Computer Stuff
+## My Current Setup
 
-💻 [Late 2012 Macbook Pro 13-inch](https://support.apple.com/kb/sp658?locale=en_US), bit overdue for an upgrade but it still works...  
+💻 [Late 2012 Macbook Pro 13-inch](https://support.apple.com/kb/sp658?locale=en_US), *quite* overdue for an upgrade but it still works...  
 📺 [LG 32QK500-C 32-Inch Class QHD LED IPS Monitor with Radeon FreeSync](https://www.amazon.com/gp/product/B07YGZRQ98/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)  
 ⌨️ [Ducky One 2 Mini RGB (Cherry MX Silent Red) Keyboard](https://www.amazon.com/gp/product/B07SYJ6S5F/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)  
 🖱️ [SteelSeries Rival 95 Optical Gaming Mouse](https://www.amazon.com/gp/product/B075LY78QD/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)  
