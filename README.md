@@ -15,14 +15,14 @@ I blame <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" title="Lin
 Away from keyboard I am a 🐴 horse geek 🏇, it is how I refresh and recharge. 
 
 
-## 📈 My Github Stats:
+## My Github Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olepunchy&theme=radical)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=olepunchy&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-## 🚀 Languages and Tools I'm Into:
+## Languages and Tools I'm Into:
 
 <a href="https://azure.microsoft.com" target="_blank" title="Azure" ><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="24px" height="24px" /></a>
 <a href="https://javascript.com" targt="_blank" title="JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="24px" height="24px" /></a>
@@ -37,7 +37,7 @@ Away from keyboard I am a 🐴 horse geek 🏇, it is how I refresh and recharge
 <a href="https://docker.com" target="_blank" title="Docker"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="24px" height="24px" /></a>
 <a href="https://kubernetes.io" target="_blank" title="Kubernetes"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="24px" height="24px" /></a>
 
-## 🪄 My Current Setup:
+## My Current Setup:
 
 💻 [Late 2012 Macbook Pro 13-inch](https://support.apple.com/kb/sp658?locale=en_US), *quite* overdue for an upgrade but it still works...  
 📺 [LG 32QK500-C 32-Inch Class QHD LED IPS Monitor with Radeon FreeSync](https://www.amazon.com/gp/product/B07YGZRQ98/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)  
