@@ -39,8 +39,8 @@ Away from keyboard I am a 🐴 horseman 🏇, it is how I refresh and recharge.
 
 ## My Current Setup:
 
-💻 [Late 2012 Macbook Pro 13-inch](https://support.apple.com/kb/sp658?locale=en_US), *quite* overdue for an upgrade but it still works...  
+💻 [2021 Macbook Pro 14-inch](https://www.apple.com/macbook-pro-14-and-16/specs/)  
 📺 [LG 32QK500-C 32-Inch Class QHD LED IPS Monitor with Radeon FreeSync](https://www.amazon.com/gp/product/B07YGZRQ98/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)  
-⌨️ [Ducky One 2 Mini RGB (Cherry MX Silent Red) Keyboard](https://www.amazon.com/gp/product/B07SYJ6S5F/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)  
+⌨️ [iKBC CD87 V2 Ergonomic Mechanical Keyboard with Cherry MX Clear Switch](https://www.amazon.com/dp/B08B84VPN9?psc=1&ref=ppx_yo2ov_dt_b_product_details)  
 🖱️ [SteelSeries Rival 95 Optical Gaming Mouse](https://www.amazon.com/gp/product/B075LY78QD/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)  
 🪵 [WOKA Dual Motor Standing Desk, 48 x 24 Inches Adjustable Height Desk](https://www.amazon.com/gp/product/B095H2PTYK/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)  
