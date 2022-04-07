@@ -10,7 +10,7 @@ I'm currently employed at [Microsoft](https://azure.microsoft.com) as an [Azure 
 
 ## 👨‍🚀 About:
 
-I blame <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" title="Linux"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="16px" height="16px" alt="Linux" /></a> for getting me into this stuff 😆. Something clicked in that process, and then there I was trying to make everything I could think of into a shell script 🤓. I have been exploring programming languages and building stuff every since.  
+I blame <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" title="Linux"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="16px" height="16px" alt="Linux" /></a> for getting me into this stuff 😆. Something clicked in that process, and then there I was trying to make everything I could think of into a shell script 🤓. I have been into exploring programming languages and building stuff for fun every since.  
 
 Away from keyboard I am a 🐴 horseman 🏇, it is how I refresh and recharge. 
 
