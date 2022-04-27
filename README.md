@@ -15,7 +15,7 @@ I blame <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" title="Lin
 Away from keyboard I am a 🐴 horseman 🏇, it is how I refresh and recharge. 
 
 
-## Love to work with:
+## I'm into this kind of stuff:
 <a href="https://python.org" target="_blank" title="Python"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="24px" height="24px" /></a>
 <a href="https://go.dev" target="_blank" title="Go"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="24px" height="24px" /></a>
 <a href="https://elm-lang.org/" target="_blank" title="Elm"><img src="https://github.com/devicons/devicon/blob/master/icons/elm/elm-original.svg" width="24px" height="24px"></a>
