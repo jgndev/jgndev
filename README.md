@@ -15,24 +15,14 @@ I blame <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" title="Lin
 Away from keyboard I am a 🐴 horseman 🏇, it is how I refresh and recharge. 
 
 
-## My Github Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olepunchy&theme=radical)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=olepunchy&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-## Languages and Tools I'm Into:
-
-<a href="https://azure.microsoft.com" target="_blank" title="Azure" ><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="24px" height="24px" /></a>
-<a href="https://javascript.com" targt="_blank" title="JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="24px" height="24px" /></a>
-<a href="https://www.typescriptlang.org" target="_blank" title="Typescript"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="24px" height="24px" /></a>
+## Love to work with:
 <a href="https://python.org" target="_blank" title="Python"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="24px" height="24px" /></a>
 <a href="https://go.dev" target="_blank" title="Go"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="24px" height="24px" /></a>
-<a href="https://svelte.dev" target="_blank" title="Svelte"><img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" width="24px" height="24px" /></a>
-<a href="https://d3js.org" target="_blank" title="D3.js"><img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" width="24px" height="24px" /></a>
+<a href="https://elm-lang.org/" target="_blank" title="Elm"><img src="https://github.com/devicons/devicon/blob/master/icons/elm/elm-original.svg" width="24px" height="24px"></a>
+<a href="https://elixir-lang.org/" target="_blank" title="Elixir"><img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" width="24px" height="24px"></a>
+<a href="https://phoenixframework.org/" target="_blank" title="Phoenix"><img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" width="24px" height="24px"></a>
 <a href="https://tailwindcss.com" target="_blank" title="Tailwind CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="24px" height="24px"></a>
-<a href="https://nodejs.org" target="_blank" title="node.js"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="24px" height="24px" /></a>
+<a href="https://azure.microsoft.com" target="_blank" title="Azure" ><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="24px" height="24px" /></a>
 <a href="https://docker.com" target="_blank" title="Docker"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="24px" height="24px" /></a>
 <a href="https://kubernetes.io" target="_blank" title="Kubernetes"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="24px" height="24px" /></a>
 
