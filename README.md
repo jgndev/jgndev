@@ -10,12 +10,12 @@ I'm currently employed at [Microsoft](https://azure.microsoft.com) as an [Azure 
 
 ## 👨‍🚀 About:
 
-I blame <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" title="Linux"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="16px" height="16px" alt="Linux" /></a> for getting me into this stuff 😆. Something clicked in that process, and then there I was trying to make everything I could think of into a shell script 🤓. I have been into exploring programming languages and building stuff for fun every since.  
+I blame <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" title="Linux"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="16px" height="16px" alt="Linux" /></a> for getting me into this stuff 😆. Something clicked in that process, and then there I was trying to make everything I could think of into a shell script 🤓. I have been into exploring programming languages and building things for fun every since.  
 
 Away from keyboard I am a 🐴 horseman 🏇, it is how I refresh and recharge. 
 
 
-## I'm into this kind of stuff:
+## I'm currently focused on:
 <a href="https://python.org" target="_blank" title="Python"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="24px" height="24px" /></a>
 <a href="https://go.dev" target="_blank" title="Go"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="24px" height="24px" /></a>
 <a href="https://elm-lang.org/" target="_blank" title="Elm"><img src="https://github.com/devicons/devicon/blob/master/icons/elm/elm-original.svg" width="24px" height="24px"></a>
