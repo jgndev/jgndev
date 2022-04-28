@@ -1,4 +1,4 @@
-### 👋 Howdy there, I'm Jeremy Novak
+# 👋 Howdy there, I'm Jeremy Novak
 
 
 I'm currently employed at [Microsoft](https://azure.microsoft.com) as an [Azure App Services](https://azure.microsoft.com/en-us/services/app-service/) Engineer. I love to work with Open Source Software, Web Applications, Containers and the Cloud. 
@@ -15,15 +15,14 @@ I blame <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" title="Lin
 Away from keyboard I am a 🐴 horseman 🏇, it is how I refresh and recharge. 
 
 
-## I'm currently focused on:
+## I like working with:
 <a href="https://python.org" target="_blank" title="Python"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="24px" height="24px" /></a>
 <a href="https://go.dev" target="_blank" title="Go"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="24px" height="24px" /></a>
-<a href="https://elm-lang.org/" target="_blank" title="Elm"><img src="https://github.com/devicons/devicon/blob/master/icons/elm/elm-original.svg" width="24px" height="24px"></a>
-<a href="https://elixir-lang.org/" target="_blank" title="Elixir"><img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" width="24px" height="24px"></a>
-<a href="https://phoenixframework.org/" target="_blank" title="Phoenix"><img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" width="24px" height="24px"></a>
-<a href="https://tailwindcss.com" target="_blank" title="Tailwind CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="24px" height="24px"></a>
-<a href="https://azure.microsoft.com" target="_blank" title="Azure" ><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="24px" height="24px" /></a>
-<a href="https://docker.com" target="_blank" title="Docker"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="24px" height="24px" /></a>
+<a href="https://www.typescriptlang.org" target="_blank" title="TypeScript"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="24px" height="24px" /></a>
+<a href="https://kit.svelte.dev" target="_blank" title="Svelte"><img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" width="24px" height="24px" /></a>
+<a href="https://tailwindcss.com" target="_blank" title="Tailwind CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="26px" height="26px"></a>
+<a href="https://azure.microsoft.com" target="_blank" title="Azure" ><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="22px" height="22px" /></a>
+<a href="https://docker.com" target="_blank" title="Docker"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="28px" height="28px" /></a>
 <a href="https://kubernetes.io" target="_blank" title="Kubernetes"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="24px" height="24px" /></a>
 
 ## My Current Setup:
