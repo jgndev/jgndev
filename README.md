@@ -19,10 +19,10 @@ Away from keyboard I am a 🐴 horseman 🏇, it is how I refresh and recharge.
 <a href="https://go.dev" target="_blank" title="Go"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="24px" height="24px" /></a>
 <a href="https://elixir-lang.org/" target="_blank" title="Elixir"><img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" width="24px" height="24px" /></a>
 <a href="https://phoenixframework.org/" target="_blank" title="Phoenix"><img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" width="24px" height="24px" /></a>
-<a href="" target="_blank" title="Ruby">
+<a href="https://www.ruby-lang.org/en/" target="_blank" title="Ruby">
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="24px" height="24px" />
 </a>
-<a href="" target="_blank" title="Ruby on Rails">
+<a href="https://rubyonrails.org/" target="_blank" title="Ruby on Rails">
 <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" width="24px" height="24px" />
 </a>
 <a href="https://tailwindcss.com" target="_blank" title="Tailwind CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="26px" height="26px"></a>
