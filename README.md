@@ -13,8 +13,6 @@ I really enjoy working with these languages, frameworks and tools.
 
 <a href="https://python.org" target="_blank" title="Python"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="24px" height="24px" /></a>
 <a href="https://go.dev" target="_blank" title="Go"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="24px" height="24px" /></a>
-<a href="https://elixir-lang.org/" target="_blank" title="Elixir"><img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" width="24px" height="24px" /></a>
-<a href="https://phoenixframework.org/" target="_blank" title="Phoenix"><img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" width="24px" height="24px" /></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" title="Ruby">
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="24px" height="24px" />
 </a>
