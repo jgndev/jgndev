@@ -8,7 +8,7 @@ I'm currently employed at [Microsoft](https://azure.microsoft.com) as an [Azure 
 
 ## 👨‍🚀 About:
 
-I'm an engineer with nearly two decades of experience in Information Technology. My early years were spent learning FreeBSD and using Solaris and Linux professionally at <a href="https://micron.com" target="_blank" title="Micron">Micron Technology</a>. I was fascinated by <a href="https://en.wikipedia.org/wiki/Unix_philosophy" target="_blank">all these little programs that did powerful things really well</a>, which inspired me to learn something about C, C++ and Perl. The joy of solving problems using programming has stuck and remains the main thing I enjoy doing on a computer.
+I'm an engineer with nearly two decades of experience in Information Technology. My early years were spent learning FreeBSD and using Solaris and Linux professionally at <a href="https://micron.com" target="_blank" title="Micron">Micron</a>. I was fascinated by <a href="https://en.wikipedia.org/wiki/Unix_philosophy" target="_blank">all these little programs that did powerful things really well</a>, which inspired me to learn something about C, C++ and Perl. The joy of solving problems using programming has stuck and remains the main thing I enjoy doing on a computer.
 
 Away from keyboard I am a 🐴 horseman 🏇, it is how I refresh and recharge. 
 
