@@ -1,7 +1,7 @@
 # 👋 Howdy there, I'm Jeremy Novak
 
 
-I'm currently employed at [Microsoft](https://azure.microsoft.com) as an [Azure App Services](https://azure.microsoft.com/en-us/services/app-service/) Engineer. I enjoy building things and using Open Source software. 
+I'm currently employed at [Microsoft](https://azure.microsoft.com) as an [Azure App Services](https://azure.microsoft.com/en-us/services/app-service/) Engineer. I enjoy building cool things and using Open Source software. 
 
 <a href="https://linkedin.com/in/jgnovak" target="_blank" title="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
