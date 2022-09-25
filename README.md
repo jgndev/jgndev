@@ -25,6 +25,18 @@ I really enjoy working with these languages, frameworks and tools.
 
 Away from keyboard I am a 🐴 horseman 🏇, it is how I refresh and recharge. 
 
+## Resume:
+
+<div>
+<a href="https://jgnovak.net" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="24px" height="24px" /> View my resume hosted on Azure</a>
+</div>
+<div>
+<a href="https://jgnovak.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="24px" height="24px" /> View my resume hosted on Amazon Web Services</a>
+</div>
+<div>
+<a href="https://jgnovak.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="24px" height="24px" /> View my resume hosted on Google Cloud Platform</a>
+</div>
+
 
 ## My Current Setup:
 
