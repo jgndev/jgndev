@@ -12,7 +12,7 @@ I'm an engineer with nearly two decades of experience in Information Technology.
 
 You can find my personal blog and portfolio at [jgnovak.dev](https://jgnovak.dev)
 
-Away from keyboard I am a 🐴 horseman 🏇, and amatuer :meat_on_bone: BBQ :fried_shrimp: cook. 
+Away from keyboard I am a 🐴 horseman 🏇, and amateur :meat_on_bone: BBQ :fried_shrimp: cook. 
 
 ## :open_book: Resume:
 
