@@ -1,24 +1,30 @@
 # 👋 Howdy there, I'm Jeremy Novak
 
 
-I'm currently employed at [Microsoft](https://azure.microsoft.com) as an [Azure App Services](https://azure.microsoft.com/en-us/services/app-service/) Engineer. I enjoy building cool things and using Open Source software. 
+## 👨‍🚀 About:
+
+Building Software that solves a problem is my dream job.
+
+I love to learn something new and use my skills to build cool things. As a Maker personality type, I am happiest when building and improving things that solve a problem or do something useful. Today I'm a Full Stack Web Developer and have created several projects that I invite you to explore and ask me questions if you have them. These projects demonstrate the type of skills that I have and the quality of work I will bring to your project.
+
+In addition to my skills, I abide by three core tenants that I bring to any company, contract or freelance opportunity.
+
+Work Ethic: Productivity is essential to me, and I'm always looking for ways to improve my workflow to accomplish more. A good day is a very productive day. 
+
+Empathy: I try to understand the needs of the business and put myself in the stakeholders' shoes. Then I leverage my skills as an engineer to produce the best solution for the project. 
+
+Love of the Craft: I'm committed to learning the best techniques and practices and improving my skillset to bring the most value to every project.
+
+I'm familiar with several programming languages, including C#, Python, Go, JavaScript, TypeScript, SQL, CSS, and HTML. I'm always adding new skills, techniques, and best practices to my toolkit. 
 
 <a href="https://linkedin.com/in/jgnovak" target="_blank" title="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-## 👨‍🚀 About:
-
-I'm an engineer with nearly two decades of experience in Information Technology. My early years were spent learning FreeBSD and using Solaris and Linux professionally at <a href="https://micron.com" target="_blank" title="Micron">Micron</a>. I was fascinated by <a href="https://en.wikipedia.org/wiki/Unix_philosophy" target="_blank">all these little programs that did powerful things really well</a>, which inspired me to learn something about programming. The joy of solving problems and automating tasks using programming has stuck and remains the main thing I enjoy doing with a computer.
 
 Away from keyboard I am a 🐴 horseman 🏇, amateur :meat_on_bone: BBQ :fried_shrimp: cook, and enjoy being outdoors with my family and animals. 
 
 You can find my personal blog and portfolio at [jgnovak.dev](https://jgnovak.dev)
 
-## :open_book: Resume:
+## :toolbox: Skills
 
-View my ATS friendly resume hosted on these cloud platforms:
-
-<a href="https://jgnovak.net" target="_blank" title="Azure">jgnovak.net on Azure</a>  
-<a href="https://jgnovak.org" target="_blank" title="Amazon Web Services">jgnovak.org Amazone Web Services (AWS)</a>  
-<a href="https://jgnovak.me" target="_blank" title="Google Cloud Platform">jgnovak.me on Google Cloud Platform (GCP)</a>  
+C#, .NET, Python, Go, JavaScript, TypeScript, SQL, CSS, HTML, Linux, Docker, Git, GitHub, Azure. 
 
