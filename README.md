@@ -15,8 +15,6 @@ Empathy: I try to understand the needs of the business and put myself in the sta
 
 Love of the Craft: I'm committed to learning the best techniques and practices and improving my skillset to bring the most value to every project.
 
-I'm familiar with several programming languages, including C#, Python, Go, JavaScript, TypeScript, SQL, CSS, and HTML. I'm always adding new skills, techniques, and best practices to my toolkit. 
-
 <a href="https://linkedin.com/in/jgnovak" target="_blank" title="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
