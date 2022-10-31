@@ -15,7 +15,7 @@ Empathy: I try to understand the needs of the business and put myself in the sta
 
 Love of the Craft: I'm committed to learning the best techniques and practices and improving my skillset to bring the most value to every project.
 
-I'm always adding new skills, techniques, and best practices to my toolkit. Please read out if you would like to connect.
+I'm always adding new skills, techniques, and best practices to my toolkit. Please reach out if you would like to connect.
 
 C#, .NET Core, ASP.NET MVC, ASP.NET Web API, Blazor, Razor Pages, Entity Framework Core, React.js, JavaScript, HTML, CSS, Azure
 
