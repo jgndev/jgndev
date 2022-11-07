@@ -11,7 +11,7 @@ In addition to my skills, I abide by three core tenants that I bring to any comp
 
 Work Ethic: Productivity is essential to me, and I'm always looking for ways to improve my workflow to accomplish more. A good day is a very productive day. 
 
-Empathy: I try to understand the needs of the business and put myself in the stakeholders' shoes. Then I leverage my skills as an engineer to produce the best solution for the project. 
+Empathy: I endeavor to understand the needs of the business and put myself in the stakeholders' shoes. Then I leverage my skills as an engineer to produce the best solution for the project.
 
 Love of the Craft: I'm committed to learning the best techniques and practices and improving my skillset to bring the most value to every project.
 
