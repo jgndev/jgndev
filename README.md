@@ -24,4 +24,4 @@ C#, .NET, ASP.NET MVC, ASP.NET Web API, Entity Framework, Vue, JavaScript, HTML,
 
 Away from keyboard I am a 🐴 horseman 🏇, amateur :meat_on_bone: BBQ :fried_shrimp: cook, and enjoy being outdoors with my family and animals. 
 
-You can find my personal blog and portfolio at [jgnovak.dev](https://jgnovak.dev)
+You can find my portfolio at [jgnovak.dev](https://jgnovak.dev)
