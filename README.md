@@ -24,4 +24,18 @@ C#, ASP.NET MVC, ASP.NET Web API, Entity Framework, Vue, JavaScript, HTML, CSS, 
 
 Away from keyboard I am a 🐴 horseman 🏇, amateur :meat_on_bone: BBQ :fried_shrimp: cook, and enjoy being outdoors with my family and animals. 
 
+
+## 🎨️ Recent Projects:
+
+
+### Whale Calculator
+
+A loan calculator made with [ASP.NET Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis), [Vue3](https://vuejs.org/) and [TailwindCSS](https://tailwindcss.com/). Deployed to [Azure](https://azure.microsoft.com/en-us/) with [GitHub Actions](https://github.com/features/actions).
+
+<a href="https://whalecalc.jgnovak.dev" target="_blank">
+<img src="img/whalecalc.png" style="width: 400px">
+</a>
+
+## 💼 Portfolio:
+
 You can find my portfolio at [jgnovak.dev](https://jgnovak.dev)
