@@ -36,7 +36,7 @@ Create contacts and assign them to categories. Email your contacts individually 
     <img src="img/contactpro.png" style="width: 600px;" />
 </a>
 
-### Whale Calculator
+### Loan Calculator
 
 A loan calculator made with [ASP.NET Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis), [Vue3](https://vuejs.org/) and [TailwindCSS](https://tailwindcss.com/). Deployed to [Azure](https://azure.microsoft.com/en-us/) with [GitHub Actions](https://github.com/features/actions).
 
