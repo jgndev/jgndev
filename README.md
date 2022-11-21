@@ -27,13 +27,21 @@ Away from keyboard I am a 🐴 horseman 🏇, amateur :meat_on_bone: BBQ :fried_
 
 ## 🎨️ Recent Projects:
 
+## ContactPro
+
+A multi-tenant contact management application made with [ASP.NET MVC](https://dotnet.microsoft.com/en-us/apps/aspnet), [Azure SQL](https://azure.microsoft.com/en-us/products/azure-sql/), [MailGun](https://mailgun.com), [Bootstrap](https://getbootstrap.com), and deployed to [Azure](https://azure.microsoft.com/en-us) with [GitHub Actions](https://github.com/features/actions).
+Create contacts and assign them to categories. Email your contacts individually or send email to all contacts in a category. Supports login with Google, Microsoft or Facebook accounts in addition to local accounts.
+
+<a href="https://jgn-contactpro.azurewebsites.net" target="_blank">
+    <img src="img/contactpro.png" style="width: 600px;" />
+</a>
 
 ### Whale Calculator
 
 A loan calculator made with [ASP.NET Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis), [Vue3](https://vuejs.org/) and [TailwindCSS](https://tailwindcss.com/). Deployed to [Azure](https://azure.microsoft.com/en-us/) with [GitHub Actions](https://github.com/features/actions).
 
 <a href="https://whalecalc.jgnovak.dev" target="_blank">
-<img src="img/whalecalc.png" style="width: 400px">
+<img src="img/loancalc.png" style="width: 600px;">
 </a>
 
 ## 💼 Portfolio:
