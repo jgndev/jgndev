@@ -17,7 +17,7 @@ Love of the Craft: I'm committed to learning the best techniques and practices a
 
 I'm always adding new skills, techniques, and best practices to my toolkit. 
 
-C#, ASP.NET Web API, Entity Framework, TypeScript, React.js
+C#, ASP.NET Web API, TypeScript, React.js
 
 <a href="https://linkedin.com/in/jgnovak" target="_blank" title="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
