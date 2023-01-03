@@ -26,6 +26,3 @@ Away from keyboard I am a 🐴 horseman 🏇, amateur :meat_on_bone: BBQ :fried_
 Please reach out if you would like to connect.
 
 
-## 💼 Portfolio:
-
-You can view my portfolio at <a href="https://jgnovak.dev" target="_blank" title="Jeremy's Portfolio">jgnovak.dev</a>
