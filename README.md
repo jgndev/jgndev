@@ -5,7 +5,7 @@
 
 Building Software that solves interesting problems is my dream job.
 
-I love to learn something new and use my skills to build cool things. As a Maker personality type, I am happiest when building and improving things that solve a problem or do something useful. I'm currently focused on Data Structures and Algothrims, .NET deep dive and picking up some UI/UX.  
+I love to learn something new and use my skills to build cool things. I'm currently focused on Data Structures and Algothrims, .NET and picking up some UI/UX.  
 
 My hot take for 2023 is that either WASM, or AR/VR are the things to be learning 🚀
 
