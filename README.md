@@ -5,7 +5,7 @@
 
 Building Software that solves interesting problems is my dream job.
 
-I love to learn something new and to build cool things. I'm currently focused on Data Structures and Algothrims, .NET, and exploring Design & UI/UX.  
+I love to learn something new and build cool things. I'm currently focused on Data Structures and Algothrims, .NET, and exploring Design & UI/UX.  
 
 My 🔥 hot take 🔥 for 2023 is that either WASM, or AR/VR are the things to be learning 🚀
 
