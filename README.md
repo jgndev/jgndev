@@ -3,7 +3,7 @@
 
 ## 👨‍🚀 About:
 
-Building Software that solves interesting problems is my dream job.
+Building software that solves interesting problems is my dream job.
 
 I love to learn something new and build cool things. I'm currently focused on Data Structures and Algothrims, .NET, and exploring Design & UI/UX.  
 
