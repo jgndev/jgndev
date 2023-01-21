@@ -3,7 +3,7 @@
 
 ## 👨‍🚀 About:
 
-I love to learn something new, solve problems, and build cool things. I'm currently focused on Data Structures and Algorithms, .NET Web API, React + TypeScript, and Design.
+I love to learn something new, solve problems, and build cool things. I'm currently focused on .NET Web API, React + TypeScript, and Design.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="width: 32px" title="C#" />   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" style="width: 32px" title=".NET" />   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="width: 32px" title="TypeScript" />  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="width: 32px" title="React" />
 
