@@ -3,7 +3,7 @@
 
 ## 👨‍🚀 About:
 
-I love to learn something new, solve problems, and build cool things. I'm currently focused on Java, Spring, TypeScript, React, and AWS.
+I love to learn something new, solve problems, and build cool things. I'm currently focused on Java, Spring, JavaScript, React, and AWS.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="width: 48px" title="Java" />  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" style="width: 48px" title="Spring" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="width: 48px" title="PostgreSQL" />  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="width: 48px" title="JavaScript" />  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="width: 48px" title="React" />  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" style="width: 48px" title="AWS" />
 
