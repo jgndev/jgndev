@@ -15,8 +15,6 @@ Empathy: I endeavor to understand the needs of the business and put myself in th
 
 Love of the Craft: I'm committed to learning the best techniques and practices and improving my skillset to bring the most value to every project.
 
-I love to learn something new, solve problems, and build cool things. My tech stack includes the following
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="width: 48px" title="Java" />  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" style="width: 48px" title="Spring" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="width: 48px" title="PostgreSQL" />  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="width: 48px" title="JavaScript" />  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="width: 48px" title="React" />  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" style="width: 48px" title="AWS" />
 
 I'm always adding new skills, techniques, and best practices to my toolkit. Please reach out if you would like to connect.
