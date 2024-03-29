@@ -1,8 +1,5 @@
 # 👋 Howdy there, I'm Jeremy Novak
 
-
-## 👨‍🚀 About:
-
 I love to learn something new and use my skills to build cool things. As a Maker personality type, I am naturally motivated by building things and solving interesting problems.
 
 I'm always adding new skills, techniques, and best practices to my toolkit. Please reach out if you would like to connect.
