@@ -14,4 +14,4 @@ I'm always adding new skills, techniques, and best practices to my toolkit. Plea
 
 ## AFK
 
-Away from keyboard I am a 🐴 horseman 🏇, and enjoy being outdoors with my family and animals. 
+Away from keyboard I am a horseman and amatuer BBQ cook, and enjoy being outdoors with my family and animals. 
