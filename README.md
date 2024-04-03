@@ -8,7 +8,7 @@ I'm always adding new skills, techniques, and best practices to my toolkit. Plea
 
 ## Skills
 
-Go, Java, git, GitHub, Linux, Terraform, Vault, Consul, Docker, Kubernetes, Google Cloud Platform, Azure, REST, gRPC, Protocol Buffer, HTTP, Concurrency, Grafana, Prometheus, Splunk
+Go, Java, git, GitHub, Linux, Terraform, Vault, Ansible, Docker, Kubernetes, Google Cloud Platform, Grafana, Prometheus, Splunk
 
 
 ## Certifications
