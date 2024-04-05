@@ -6,7 +6,7 @@ I'm always adding new skills, techniques, and better craftsmanship to my toolkit
 
 ## Skills
 
-Go, Java, git, GitHub, Linux, Terraform, Vault, Docker, Kubernetes, Google Cloud Platform, Grafana, Prometheus
+Go, Java, git, GitHub, Linux, Terraform, Vault, Docker, Kubernetes, Google Cloud Platform, Prometheus, Grafana
 
 
 ## Certifications
