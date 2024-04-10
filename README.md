@@ -8,7 +8,10 @@ Please reach out if you would like to connect.
 
 ## Skills
 
-Go, Java, git, GitHub, Linux, Terraform, Vault, Docker, Kubernetes, Google Cloud Platform, Prometheus, Grafana
+**Programming Languages:** Go, Java  
+**Frameworks:** Echo, Spring Boot  
+**Technologies & Tools:** Git, GitHub, Terraform, Vault, Docker, Kubernetes, Prometheus, Grafana  
+**Platforms:** Linux, Google Cloud Platform (GCP), Amazon Web Services (AWS)  
 
 
 ## Certifications
