@@ -8,9 +8,9 @@ Please reach out if you would like to connect.
 
 ## Skills
 
-**Programming Languages:** Go, Java   
-**Frameworks:** Echo, Spring Boot  
-**Technologies & Tools:** Git, GitHub, Terraform, Vault, Docker, Kubernetes, Prometheus, Grafana  
+**Programming Languages:** Go, Java, C#  
+**Frameworks:** Echo, Spring Boot, ASP.NET  
+**Technologies & Tools:** Git, GitHub, Terraform, Vault, Docker, Kubernetes  
 **Platforms:** Linux, Google Cloud Platform (GCP), Amazon Web Services (AWS)  
 
 
