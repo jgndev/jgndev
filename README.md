@@ -8,7 +8,7 @@ Please reach out if you would like to connect.
 
 ## Skills
 
-**Programming Languages:** Go, C, Java  
+**Programming Languages:** Go, Java  
 **Technologies & Tools:** Git, GitHub, Terraform, Vault, Docker, Kubernetes, GKE  
 **Platforms:** Linux, Google Cloud Platform (GCP)
 
