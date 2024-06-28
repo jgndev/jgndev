@@ -8,9 +8,9 @@ to connect.
 
 ## Skills
 
-**Programming Languages:** Go, Python
+**Programming Languages:** Go, Python  
 **Technologies & Tools:** Git, GitHub, Terraform, Vault, Docker, Kubernetes, GKE, EKS  
-**Platforms:** Linux, Google Cloud Platform (GCP), Amazon Web Services (AWS)
+**Platforms:** Linux, Google Cloud Platform (GCP), Amazon Web Services (AWS)  
 
 
 ## Certifications
