@@ -1,6 +1,6 @@
 # 👋 Howdy, I'm Jeremy Novak
 
-I'm a software developer from Texas. I love to learn something new and use my 
+I'm a software developer from Oklahoma. I love to learn something new and use my 
 skills and experience to build cool things. Please reach out if you would like 
 to connect.
 
@@ -8,9 +8,9 @@ to connect.
 
 ## Skills
 
-**Programming Languages:** Go, Java  
-**Technologies & Tools:** Git, GitHub, Terraform, Vault, Docker, Kubernetes, GKE  
-**Platforms:** Linux, Google Cloud Platform (GCP)
+**Programming Languages:** Go, Python
+**Technologies & Tools:** Git, GitHub, Terraform, Vault, Docker, Kubernetes, GKE, EKS  
+**Platforms:** Linux, Google Cloud Platform (GCP), Amazon Web Services (AWS)
 
 
 ## Certifications
