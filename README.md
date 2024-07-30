@@ -8,7 +8,7 @@ skills and experience to build cool things. Please reach out if you would like t
 ## Skills
 
 **Programming Languages:** Go, Python  
-**Technologies & Tools:** Git, GitHub, Terraform, Vault, Packer, Linux, Docker, Kubernetes
+**Technologies & Tools:** Git, GitHub, Terraform, Vault, Packer, Linux, Docker, Kubernetes  
 **Platforms:** Linux, Google Cloud Platform (GCP), Amazon Web Services (AWS)  
 
 
