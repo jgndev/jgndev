@@ -21,4 +21,4 @@ skills and experience to build cool things. Please reach out if you would like t
 
 ## AFK
 
-Away from keyboard I am a horseman and amateur BBQ cook, and enjoy being outdoors with my family and animals. 
+Away from keyboard I am a horseman, amatuer BBQ cook and hobby farmer. I love to be outdoors spending time with my family and animals. 
