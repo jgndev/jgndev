@@ -3,7 +3,7 @@
 I'm a software developer working from our beautiful farm in Oklahoma. I love to learn something new and use my 
 skills and experience to solve problems and build cool things. Please reach out if you would like to connect.  
 
-<a href="https://linkedin.com/in/jgnovak" title="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://linkedin.com/in/jgndev" title="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ## Skills
 
