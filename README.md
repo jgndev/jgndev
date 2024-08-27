@@ -1,4 +1,4 @@
-# 👋 Howdy, I'm Jeremy Novak
+![go-color](https://github.com/user-attachments/assets/24b4e2ba-85a6-49e8-b85a-d92e8ac14b96)# 👋 Howdy, I'm Jeremy Novak
 
 I'm a software developer working from our beautiful farm in Oklahoma. I love to learn something new and use my 
 skills and experience to solve problems and build cool things. Please reach out if you would like to connect.  
@@ -8,8 +8,7 @@ skills and experience to solve problems and build cool things. Please reach out 
 ## Skills
 
 **Programming Languages:** Go, C++, C#  
-**Technologies & Tools:** Git, GitHub, Terraform, Vault, Packer, Linux, Docker, Kubernetes  
-**Platforms:** Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure    
+**Technologies, Tools and Platforms:** Git, GitHub, Terraform, Vault, Packer, Linux, Docker, Kubernetes, GCP       
 
 
 ## Certifications
