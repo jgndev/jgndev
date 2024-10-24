@@ -7,7 +7,7 @@ skills and experience to solve problems and build cool things. Please reach out 
 
 ## Skills
 
-**Programming Languages:** Go, C++, Python  
+**Programming Languages:** Go, Python, C  
 **Technologies, Tools and Platforms:** Git, GitHub, Terraform, Packer, Linux, Docker, Kubernetes       
 
 
