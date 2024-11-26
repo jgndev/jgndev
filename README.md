@@ -8,12 +8,13 @@ skills and experience to solve problems and build cool things. Please reach out 
 ## Skills
 
 **Programming Languages:** Go, Python, Rust    
-**Technologies, Tools and Platforms:** Git, GitHub, GitLab, Terraform, Linux, Kubernetes, AWS      
+**Technologies, Tools and Platforms:** Git, GitHub, GitLab, Kubernetes, Linux, GCP, AWS, Terraform   
 
 
 ## Certifications
 
 <div style="display: flex; justify-content: start; align-items: center; gap: 1rem;">
+    <a href="https://www.credly.com/badges/fb5cbf16-55bc-438b-9983-578841304de5/public_url"><img src="img/cka-badge.svg" alt="Certified Kubernetes Administrator" title="Certified Kubernetes Administrator" width="156"/></a>
     <a href="https://www.credly.com/badges/93f52a6f-2425-4d88-b952-d45f9fbf475e/public_url"><img src="img/ace.png" alt="Google Certified Associate Cloud Engineer" title="Google Certified Associate Cloud Engineer" width="156"/></a>
     <a href="https://www.credly.com/badges/15035634-0643-4d71-8ec6-0fccbd9864a7/public_url"><img src="img/terraform.png" alt="HashiCorp Certified Terraform Associate" title="HashiCorp Certified Terraform Associate" width="156"/></a>
 </div>
