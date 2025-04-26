@@ -7,7 +7,7 @@ skills and experience to solve problems and build cool things. Please reach out 
 
 ## Skills
 
-**Programming Languages:** Go, Python, C and Odin (for toy projects and research)
+**Programming Languages:** Go, Python, C and Odin (for toy projects and research)  
 **Technologies, Tools and Platforms:** Kubernetes, Linux, GCP, AWS, Terraform, Ansible
 
 
