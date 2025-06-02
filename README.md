@@ -7,8 +7,8 @@ skills and experience to solve problems and build cool things. Please reach out 
 
 ## Skills
 
-**Programming Languages:** Go, Python    
-**Technologies, Tools and Platforms:** Kubernetes, Linux, GCP, AWS, Terraform, Ansible
+**Programming Languages:** Go, Python, Bash      
+**Technologies, Tools and Platforms:** Kubernetes, Linux, GCP, Azure, Terraform, Ansible
 
 
 ## Certifications
