@@ -5,12 +5,6 @@ skills and experience to solve problems and build cool things. Please reach out 
 
 <a href="https://linkedin.com/in/jgnovak" title="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-## Skills
-
-**Programming Languages:** Go, Python, Bash      
-**Technologies, Tools and Platforms:** Kubernetes, Linux, GCP, Azure, Terraform, Ansible
-
-
 ## Certifications
 
 <div style="display: flex; justify-content: start; align-items: center; gap: 1rem;">
